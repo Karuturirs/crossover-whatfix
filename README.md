@@ -2,4 +2,4 @@
 challenges solved problems for crossover
 
 
-solutions for hackerrank and crossover
+solutions for hackerrank,crossover and others
